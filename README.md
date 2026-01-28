@@ -23,7 +23,7 @@
 
 <br/>
 
-## 💫 About Me
+## About Me
 
 <div align="center">
   
@@ -60,7 +60,7 @@ const aboutMe = {
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -120,14 +120,7 @@ const aboutMe = {
 <div align="center">
   <br/>
   <a href="https://github.com/Putrafthahllh">
-    <img src="https://github-readme-stats.vercel.app/api?username=Putrafthahllh&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  </a>
-  <a href="https://github.com/Putrafthahllh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Putrafthahllh&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-  </a>
-  <br/>
-  <a href="https://github.com/Putrafthahllh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Putrafthahllh&theme=tokyonight&hide_border=true" alt="streak graph" />
+    <img src="https://raw.githubusercontent.com/csyyy-lavieen/csyyy-lavieen/main/github-metrics.svg" alt="GitHub Metrics" />
   </a>
 </div>
 
@@ -156,7 +149,7 @@ const aboutMe = {
 
 ---
 
-## 💭 Random Dev Quote
+## Random Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
