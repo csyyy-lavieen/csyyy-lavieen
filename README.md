@@ -16,46 +16,100 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/csyyy-lavieen">
-      <img src="https://komarev.com/ghpvc/?username=csyyy-lavieen&label=Profile%20Views&color=007bff&style=for-the-badge" alt="Profile Views">
+      <img src="https://komarev.com/ghpvc/?username=Putrafthahllh&label=Profile%20Views&color=007bff&style=for-the-badge" alt="Profile Views">
     </a>
   </p>
 </div>
 
 <br/>
 
-## About Me
-
-> *"Design is intelligence made visible."* 
-
-I am a passionate **UI/UX Designer** and **Frontend Developer** who focuses on creating visually engaging and highly usable digital experiences. I specialize in designing and building interfaces that balance aesthetics, performance, and accessibility to deliver products that truly serve users.
-
-🔭 Currently designing intuitive, user-centered interfaces and meaningful digital experiences.
-
-🌱 Exploring advanced UI/UX patterns, design systems, and interactive web experiences.
-
-⚡ Fun fact: I obsess over pixel-perfect layouts, smooth micro-interactions, and delightful user journeys.
-
----
-
-## Tech Stack & Tools
+## 💫 About Me
 
 <div align="center">
-
-### Design
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-
-### Development
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  
+```javascript
+const aboutMe = {
+    name: "Andi Putra Fathahillah",
+    role: ["UI/UX Designer", "Frontend Developer"],
+    location: "Indonesia 🇮🇩",
+    motto: "Design is intelligence made visible.",
+    currentFocus: "Building pixel-perfect interfaces",
+    hobbies: ["Designing", "Coding", "Learning new things"]
+};
+```
 
 </div>
 
-<br/>
+<table align="center">
+  <tr>
+    <td>🎨</td>
+    <td><strong>Design Passion</strong></td>
+    <td>Creating intuitive, user-centered interfaces and meaningful digital experiences</td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td><strong>Currently Learning</strong></td>
+    <td>Advanced UI/UX patterns, design systems, and interactive web experiences</td>
+  </tr>
+  <tr>
+    <td>💡</td>
+    <td><strong>Fun Fact</strong></td>
+    <td>I obsess over pixel-perfect layouts and smooth micro-interactions</td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br><strong>Figma</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
+      <br><strong>Photoshop</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br><strong>HTML5</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br><strong>CSS3</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br><strong>JavaScript</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br><strong>TypeScript</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br><strong>React</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br><strong>Next.js</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br><strong>Tailwind</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+  </tr>
+</table>
 
 </div>
 
